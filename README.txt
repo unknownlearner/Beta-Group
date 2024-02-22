@@ -3,8 +3,8 @@
 Beta Group
 ----------->
 Hemn Hamad Ameen - W0847826
-Amanjit Kaur 
-Sandeep Singh
+Amanjit Kaur     - W0839020
+Sandeep Singh    --W0847450
 		 		>=====================> ASP.NET Core MVC <=======================< 
 
 						     
