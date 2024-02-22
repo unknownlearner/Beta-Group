@@ -22,33 +22,33 @@ public static class SeedData
             context.Movie.AddRange(
                 new Movie
                 {
-                    Product= "When Harry Met Sally",
-                    Description = "When Harry Met Sally",
-                    Material = "Romantic Comedy",
+                    Product= "ABINGER SMOKE SOFA",
+                    Description = "ss",
+                    Material = "Fabric",
                     Rating = "R",
                     Price = 7.99M
                 },
                 new Movie
                 {
-                    Product = "Ghostbusters ",
-                    Description = "When Harry Met Sally",
-                    Material = "Romantic Comedy",
+                    Product = "MIRAVEL SLATE SOFA",
+                    Description = "assa",
+                    Material = "Fabric",
                     Rating = "R",
                     Price = 8.99M
                 },
                 new Movie
                 {
-                    Product = "Ghostbusters 2",
-                    Description = "When Harry Met Sally",
-                    Material = "Romantic Comedy",
-                    Rating = "R",
+                    Product = "GENOA STEEL SOFA",
+                    Description = "aaa",
+                    Material = "Leather",
+                    Rating = "Good",
                     Price = 9.99M
                 },
                 new Movie
                 {
-                    Product = "Rio Bravo",
-                    Description = "When Harry Met Sally",
-                    Material = "Romantic Comedy",
+                    Product = "ALTARI ALLOY SOFA",
+                    Description = "If style is the question, then the Altari sofa is the answer.\r\n",
+                    Material = "Fabric",
                     Rating = "R",
                     Price = 3.99M
                 }
