@@ -115,4 +115,5 @@ Shared workload: Group Work Perfomance
 - We togther created the app, ran and tested, every step of the way.
 - Added the README file, putting our inputs and observations.
 - Created a gitHub repo for the App. 
-- Updated the databse with the Sofa products. 
+- Updated the databse with the Sofa products.
+- It was a good experience as a team on such a project.
