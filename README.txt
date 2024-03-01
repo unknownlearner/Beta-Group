@@ -2,9 +2,9 @@
 						  Group Project Prototype
 Beta Group
 ----------->
-Hemn Hamad Ameen - W0847826
-Amanjit Kaur     - W0839020
-Sandeep Singh    --W0847450
+Hemn Hamad Ameen
+Amanjit Kaur
+Sandeep Singh
 		 		>=====================> ASP.NET Core MVC <=======================< 
 
 						     
@@ -112,6 +112,11 @@ https://www.teppermans.com/furniture/living-room/sofas-sectionals/sofas
 ======================================
 Shared workload: Group Work Perfomance
 ======================================
+Hemn: Initiated the App from step 1-5 including updating the README file in parallel.
+Sandeep: Moved on with step 5-7 updating the README file accordingly.
+Amanjit: Finished the steps 7-9 also putting all notes in the README file.
+
+Other observations:
 - We togther created the app, ran and tested, every step of the way.
 - Added the README file, putting our inputs and observations.
 - Created a gitHub repo for the App. 
