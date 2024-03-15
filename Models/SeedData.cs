@@ -47,7 +47,7 @@ public static class SeedData
                 new Movie
                 {
                     Product = "ALTARI ALLOY SOFA",
-                    Description = "If style is the question, then the Altari sofa is the answer.\r\n",
+                    Description = "If style is the question, then the Altari sofa is the answer.",
                     Material = "Fabric",
                     Rating = "R",
                     Price = 3.99M
